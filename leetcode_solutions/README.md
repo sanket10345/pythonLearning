@@ -11,6 +11,7 @@ This repository contains solutions to LeetCode problems categorized by difficult
 
 ## Medium Problems
 
+- [0012 Integer to Roman](medium/0012_Integer_to_Roman/index.py)
 - [0080 Remove Duplicates from Sorted Array II](medium/0080_Remove_Duplicates_from_Sorted_Array_II/index.py)
 - [0189 Rotate Array](medium/0189_Rotate_Array/index.py)
 
