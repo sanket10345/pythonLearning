@@ -12,6 +12,7 @@ This repository contains solutions to LeetCode problems categorized by difficult
 
 ## Medium Problems
 
+- [0008 String to Integer (atoi)](medium/0008_String_to_Integer_(atoi)/index.py)
 - [0012 Integer to Roman](medium/0012_Integer_to_Roman/index.py)
 - [0080 Remove Duplicates from Sorted Array II](medium/0080_Remove_Duplicates_from_Sorted_Array_II/index.py)
 - [0189 Rotate Array](medium/0189_Rotate_Array/index.py)
