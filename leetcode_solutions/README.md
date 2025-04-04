@@ -4,6 +4,7 @@ This repository contains solutions to LeetCode problems categorized by difficult
 
 ## Easy Problems
 
+- [0013 Roman to Integer](easy/0013_Roman_to_Integer/index.py)
 - [0026 Remove Duplicates from Sorted Array](easy/0026_Remove_Duplicates_from_Sorted_Array/index.py)
 - [0027 Remove Element](easy/0027_Remove_Element/index.py)
 - [0088 Merge Sorted Array](easy/0088_Merge_Sorted_Array/index.py)
