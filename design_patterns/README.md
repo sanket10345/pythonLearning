@@ -6,3 +6,6 @@ This repository contains implementation of various problems/exercises on design 
 2) [002_factory/shape_factory](002_factory/shape_factory.py)
 3) [002_factory/user_factory](002_factory/user_factory.py)
 4) [003_prototype/webpage_prototype](003_prototype/webpage_prototype.py)
+5) [004_singleton/logger_decorator_singleton](004_singleton/logger_decorator_singleton.py)
+6) [004_singleton/logger_meta_singleton](004_singleton/logger_meta_singleton.py)
+7) [004_singleton/logger_static_var_singleton](004_singleton/logger_static_var_singleton.py)
