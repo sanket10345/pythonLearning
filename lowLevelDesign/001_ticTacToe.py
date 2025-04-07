@@ -1,3 +1,37 @@
+"""
+# 🎮 Tic Tac Toe Game (Python Console)
+
+Welcome to a simple **Tic Tac Toe** game built using pure Python!  
+This game supports 2-player mode in the terminal with the following features:
+
+## ✅ Features:
+- Interactive player input
+- Dynamic board display
+- Win condition checks for all directions
+- Input validation and error prompts
+- Option to replay the game
+
+## 🎯 How to Play:
+1. Each player selects either 'X' or 'O'.
+2. Players take turns picking a position from 1 to 9.
+3. The first player to align 3 marks (row/column/diagonal) wins.
+4. If all cells are filled and there's no winner, it's a tie.
+
+## 📌 Position Reference:
+Here's the board layout with positions:
+
+ 7 | 8 | 9  
+-----------
+ 4 | 5 | 6  
+-----------
+ 1 | 2 | 3  
+
+## 👨‍💻 Author
+Made with ❤️ using basic Python concepts.
+
+Enjoy playing!
+"""
+
 # We need to print a board.
 def display_board(board):
     print(chr(27) + "[2J")
