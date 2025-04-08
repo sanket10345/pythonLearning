@@ -9,3 +9,5 @@ This repository contains implementation of various problems/exercises on design 
 5) [004_singleton/logger_decorator_singleton](004_singleton/logger_decorator_singleton.py)
 6) [004_singleton/logger_meta_singleton](004_singleton/logger_meta_singleton.py)
 7) [004_singleton/logger_static_var_singleton](004_singleton/logger_static_var_singleton.py)
+8) [005_adapter/temperate_adapter](005_adapter/temperate_adapter.py)
+9) [005_adapter/temperate_adapter_cache](005_adapter/temperate_adapter_cache.py)
