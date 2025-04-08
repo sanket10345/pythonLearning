@@ -11,3 +11,4 @@ This repository contains implementation of various problems/exercises on design 
 7) [004_singleton/logger_static_var_singleton](004_singleton/logger_static_var_singleton.py)
 8) [005_adapter/temperate_adapter](005_adapter/temperate_adapter.py)
 9) [005_adapter/temperate_adapter_cache](005_adapter/temperate_adapter_cache.py)
+10) [006_bridge/shape_renderer_bridge](006_bridge/shape_renderer_bridge.py)
