@@ -12,3 +12,7 @@ This repository contains implementation of various problems/exercises on design 
 8) [005_adapter/temperate_adapter](005_adapter/temperate_adapter.py)
 9) [005_adapter/temperate_adapter_cache](005_adapter/temperate_adapter_cache.py)
 10) [006_bridge/shape_renderer_bridge](006_bridge/shape_renderer_bridge.py)
+11) [007_composite/file_system_composite](007_composite/file_system_composite.py)
+12) [008_decorator/classlog_class_decorator](008_decorator/classlog_class_decorator.py)
+13) [008_decorator/log_functional_decorator](008_decorator/log_functional_decorator.py)
+14) [008_decorator/repeat_dynamic_decorator](008_decorator/repeat_dynamic_decorator.py)
