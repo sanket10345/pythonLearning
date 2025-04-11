@@ -3,3 +3,4 @@ leetcode_solutions/readme_gen.py
 create_leetcode_problem.py
 generate_design_readme.py
 generate_lld_readme.py
+populate_dsa_readme.py
